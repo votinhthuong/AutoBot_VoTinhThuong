@@ -1,0 +1,9 @@
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\bin\Debug\AutoBot.exe.config
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\bin\Debug\AutoBot.exe
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\bin\Debug\AutoBot.pdb
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.csprojResolveAssemblyReference.cache
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.Form1.resources
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.Properties.Resources.resources
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.csproj.GenerateResource.Cache
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.exe
+c:\users\votin\documents\visual studio 2015\Projects\AutoBot\AutoBot\obj\Debug\AutoBot.pdb
